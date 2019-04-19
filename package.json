@@ -1,0 +1,16 @@
+{
+  "name": "sample_jwt_express",
+  "version": "1.0.0",
+  "description": "Sample Express app with JWT authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Naga Raj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.2"
+  }
+}
